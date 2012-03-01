@@ -1,0 +1,8 @@
+This app for the BlackBerry PlayBook utilizes the Native Development Kit (NDK)
+and Qt 4.8 to create a custom widget for display on the screen.
+
+The user is presented with a stylized slider that causes an indicator to be
+repainted along the bottom, depending on the value of the slider.
+
+Shamelessly lifted from Jan Bodnar at
+http://zetcode.com/tutorials/qt4tutorial/customwidget/. Use as you see fit.
